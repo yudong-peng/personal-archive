@@ -1,0 +1,9 @@
+﻿个人档案库 v0.2.3 第三方组件说明
+
+新增的离线 PDF 预览引擎：Mozilla PDF.js / pdfjs-dist 5.6.205，Apache License 2.0。
+项目：https://github.com/mozilla/pdf.js
+完整许可证随程序资源一起分发：renderer/vendor/pdfjs/LICENSE。
+PDF 引擎、字体映射、标准字体和解码器均随补丁内置，运行时不需要在线下载。
+
+沿用组件：Electron 44.9.0、sql.js 1.15.0、fflate 0.8.2、Koffi 3.3.3。
+其对应许可证随原运行环境或应用资源分发。

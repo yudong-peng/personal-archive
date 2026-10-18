@@ -1,0 +1,14 @@
+{
+  "versions": [
+    "0.2.0",
+    "0.2.1",
+    "0.2.2",
+    "0.2.3"
+  ],
+  "hashes": [
+    "ced5bda4068576c30a65c2aea4b3c79f3d734ea7cd85bfea0b0794407fa9e31b",
+    "196d6380ed795ab284d5838979194a038dc366cec0f1bd8a1562b74262033569",
+    "a38031388e644d55ef4c4a7b0bd097423bd4d49759ea77354185d69fa52a1aea",
+    "9aacebab1c18e22c6919f2d995bda24b791d0e0419f8c00c3475df74b4cd7651"
+  ]
+}
